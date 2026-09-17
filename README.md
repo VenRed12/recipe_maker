@@ -1,4 +1,4 @@
-# FlavorForge | 5-Constraint Regional AI Recipe Studio
+# FlavorForge | 5-Constraint Customised Recipe Maker
 
 An AI-powered culinary web application that generates authentic regional recipes tailored to **five simultaneous constraints**:
 1. **Available Ingredients** (Tag-based kitchen entry + pantry staples toggle)
